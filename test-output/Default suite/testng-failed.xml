@@ -7,7 +7,7 @@
         <methods>
           <include name="afterMethod"/>
           <include name="beforeMethod"/>
-          <include name="TatocTestmethod"/>
+          <include name="TatocAdvance"/>
         </methods>
       </class> <!-- com.qainfotech.test.TatocTest -->
     </classes>

@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="23407" started-at="2018-06-21T07:43:36Z" finished-at="2018-06-21T07:43:59Z">
+  <suite name="Default suite" duration-ms="8446" started-at="2018-06-22T09:39:46Z" finished-at="2018-06-22T09:39:54Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="23407" started-at="2018-06-21T07:43:36Z" finished-at="2018-06-21T07:43:59Z">
-      <class name="com.qainfotech.test.TatocTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qainfotech.test.TatocTest@13a5fe33]" name="beforeMethod" is-config="true" duration-ms="4731" started-at="2018-06-21T07:43:36Z" finished-at="2018-06-21T07:43:40Z">
+    <test name="Default test" duration-ms="8446" started-at="2018-06-22T09:39:46Z" finished-at="2018-06-22T09:39:54Z">
+      <class name="com.qainfotech.test.BingTranslatorTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.qainfotech.test.BingTranslatorTest@13a5fe33]" name="beforeMethod" is-config="true" duration-ms="5886" started-at="2018-06-22T09:39:46Z" finished-at="2018-06-22T09:39:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TatocTestmethod()[pri:1, instance:com.qainfotech.test.TatocTest@13a5fe33]" name="TatocTestmethod" duration-ms="18597" started-at="2018-06-21T07:43:40Z" finished-at="2018-06-21T07:43:59Z">
+        <test-method status="PASS" signature="TatocTestmethod()[pri:1, instance:com.qainfotech.test.BingTranslatorTest@13a5fe33]" name="TatocTestmethod" duration-ms="2479" started-at="2018-06-22T09:39:51Z" finished-at="2018-06-22T09:39:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TatocTestmethod -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.qainfotech.test.TatocTest@13a5fe33]" name="afterMethod" is-config="true" duration-ms="62" started-at="2018-06-21T07:43:59Z" finished-at="2018-06-21T07:43:59Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.qainfotech.test.BingTranslatorTest@13a5fe33]" name="afterMethod" is-config="true" duration-ms="66" started-at="2018-06-22T09:39:54Z" finished-at="2018-06-22T09:39:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-      </class> <!-- com.qainfotech.test.TatocTest -->
+      </class> <!-- com.qainfotech.test.BingTranslatorTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

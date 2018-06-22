@@ -26,7 +26,7 @@ public class BaseTest {
 		
 		driver = new FirefoxDriver();
 		driver.manage().window().maximize();
-		driver.get("http://10.0.1.86/tatoc");
+		driver.get("https://www.bing.com/translator");
 
 	}
 

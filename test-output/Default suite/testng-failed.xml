@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.qainfotech.test.TatocTest">
+      <class name="com.qainfotech.test.BingTranslatorTest">
         <methods>
           <include name="afterMethod"/>
           <include name="beforeMethod"/>
           <include name="TatocTestmethod"/>
         </methods>
-      </class> <!-- com.qainfotech.test.TatocTest -->
+      </class> <!-- com.qainfotech.test.BingTranslatorTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
